@@ -60,5 +60,3 @@ MODEL_URLS={
     
 }
 
-for directory in [LOG_CONFIG["LOG_DIR"],MODEL_CONFIG["MODEL_DIR"],MODEL_CONFIG["PREDICTION_DIR"]]:
-    directory.mkdir(exist_ok=True,parents=True)

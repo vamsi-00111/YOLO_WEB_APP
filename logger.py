@@ -3,7 +3,7 @@ from pathlib import Path
 import os
 import datetime
 
-def log():
+def logger():
         
         #creating logs
         logger=logging.getLogger(__name__)
