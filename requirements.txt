@@ -1,3 +1,7 @@
 ultralytics
 numpy
+torch
+torchvision
+tqdm
+fastapi[standard]
 
