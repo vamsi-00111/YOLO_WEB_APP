@@ -4,7 +4,7 @@ import cv2
 from yolo import YoloDetecter
 
 app = Flask(__name__)
-
+application=app
 model = YoloDetecter()
 
 
