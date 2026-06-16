@@ -44,7 +44,7 @@ YOLO_WEB_APP/
 │
 ├── image.png            # Sample image
 ├── dog.webp             # Sample image
-└── test.ipynb           # Development notebook
+
 ```
 
 ---
