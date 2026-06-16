@@ -1,0 +1,8 @@
+ultralytics
+numpy
+torch
+torchvision
+tqdm
+fastapi
+uvicorn
+streamlit
